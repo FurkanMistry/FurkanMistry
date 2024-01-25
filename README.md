@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FurkanMistry
 - 👀 I’m interested in Machine learnig,deep learning and big data analysis
-- 🌱 I’m currently learning ionic framework(Angular)
+- 🌱 I’m currently learning Retrieval augmented generation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - instagram : furkanmistry42
 
